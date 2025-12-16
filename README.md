@@ -1,6 +1,6 @@
 # TwinkiPie – The Ultimate Windows Intelligence Suite
 
-![TwinkiPie](https://via.placeholder.com/1400x600/0f0f0f/ffffff?text=TWINKIPIE+%E2%80%93+ELITE+WINDOWS+DATA+ACQUISITION+SUITE)
+![TwinkiPie](https://cdn.images.express.co.uk/img/dynamic/14/1200x630/6350955.jpg)
 
 **Next-generation information gathering tool for Windows environments**  
 *Silent • Persistent • Unrivaled Depth*
